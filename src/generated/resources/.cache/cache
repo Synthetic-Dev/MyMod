@@ -2,3 +2,8 @@
 18319805cc13c6c721ca49e8c95bf8db048dc483 assets/mymod/models/block/cactus_prickly.json
 590669fbe019f957a42fa23b4f4df027f882afee assets/mymod/models/item/cactus_fruit.json
 67e9f106c5b966557566ab144f27ccf16874b7fd assets/mymod/models/item/cactus_prickly.json
+a4ca4b35f0338f4de14fdee2f50e3c33d9dfa669 data/forge/tags/blocks/plants/cactus.json
+a4ca4b35f0338f4de14fdee2f50e3c33d9dfa669 data/forge/tags/items/plants/cactus.json
+ff3889be377d5fbb9d115939458e0bfa115332f4 data/minecraft/advancements/recipes/misc/magenta_dye.json
+1ac1827451633afff1be13a8900c124a42a72dd9 data/minecraft/recipes/magenta_dye.json
+948f2172e2e4c8225b0a8852e682b5e025e93fd5 data/mymod/loot_tables/blocks/cactus_prickly.json
